@@ -13,8 +13,8 @@ Exploratory Data Analysis (Univariate + Bivariate) on the famous **Palmer Pengui
 
 | Action | Button |
 |--------|--------|
-| **Download PDF** | [![Download PDF](https://img.shields.io/badge/Download-PDF_Report-red?style=for-the-badge)](./EDA_Report.pdf) |
-| **Preview PDF** | [![Preview PDF](https://img.shields.io/badge/Preview-PDF_Report-blue?style=for-the-badge)](./EDA_Report.pdf) |
+| **Download PDF** | [![Download PDF](https://img.shields.io/badge/Download-PDF_Report-red?style=for-the-badge)](https://drive.google.com/file/d/1mCeDK7wQoEVWz7Rx65sTuoGF__iFXz2W/view?usp=sharing) |
+| **Preview PDF** | [![Preview PDF](https://img.shields.io/badge/Preview-PDF_Report-blue?style=for-the-badge)](https://drive.google.com/file/d/1mCeDK7wQoEVWz7Rx65sTuoGF__iFXz2W/view?usp=sharing) |
 
 > Click **Preview** to view the report directly on GitHub, or **Download** to save it locally.
 
