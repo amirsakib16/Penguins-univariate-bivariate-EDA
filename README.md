@@ -53,42 +53,10 @@ Exploratory Data Analysis (Univariate + Bivariate) on the famous **Palmer Pengui
 ## All Graphs & Visualizations
 
 ### 1. Univariate Distributions & Skewness
-
-![Page 2 - Distributions](images/KDE_1.png)
-
 ### 2. Box Plots (Outlier Detection)
-
-![Page 3 - Box Plots](images/page-3.png)
-
 ### 3. Bivariate Crosstabs & Heatmaps
-
-![Page 4 - Crosstabs](images/page-4.png)
-
 ### 4. KDE: Bill Length vs Bill Depth (by Species & Sex)
-
-![Page 5 - KDE Species & Sex](images/page-5.png)
-
 ### 5. KDE: Bill Length vs Bill Depth (by Island) & Bill Length vs Body Mass (by Species)
-
-![Page 6 - KDE Island & Body Mass](images/page-6.png)
-
 ### 6. KDE: Bill Length vs Body Mass (by Sex) & Bill Depth vs Body Mass (by Species)
-
-![Page 7 - KDE Body Mass](images/page-7.png)
-
 ### 7. KDE: Bill Depth vs Body Mass (by Sex)
-
-![Page 8 - Final KDE](images/page-8.png)
-
 ---
-
-##  Repository Structure
-Penguins-univariate-bivariate-EDA/
-├── EDA_Report.pdf   
-├── images/                          
-│   ├── KDE_1.png
-│   ├── KDE_2.png
-│   ├── ...
-│   └── BOXPLOT_2.png
-├── README.md
-└── EDA_Code.ipynb
